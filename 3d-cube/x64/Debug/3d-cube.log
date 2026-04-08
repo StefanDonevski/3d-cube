@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(30,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(31,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(39,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(40,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(33,1): warning C4716: 'draw_point_3d': must return a value
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(43,1): warning C4716: 'draw_points_3d': must return a value
+C:\Users\user\source\repos\3d-cube\3d-cube\main.c(26,1): warning C4716: 'draw_point': must return a value
+  3d-cube.vcxproj -> C:\Users\user\source\repos\3d-cube\x64\Debug\3d-cube.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
